@@ -1,0 +1,26 @@
+# Portofolio Herlnda putri pertiwi 
+
+Website portofolio pribadi yang saya buat di kelas Industri UBIG
+(paket 1, Minggu 01 sampai 05).
+Website ini tampilan rapi di ponsel, tablet, dan laptop.
+
+## tampilan
+![Tampilan beranda portofolio](img/halaman2.jpeg)
+
+## Fitur 
+
+- Halaman **Beranda** berisi profil, hobi, cita-cita, keahlian, dan jadwal belajar
+- Halaman **proyek** berisi daftar proyek dalam bentuk kartu
+- Halaman **kontak** berisi form untuk menghubungi saya
+- Tampilan responsif dengan Flexbox dan *media query*
+
+## Teknologi
+
+-HTML5
+-CSS3 (Flexbox dan media query)
+-Git dan GitHub
+
+## Tautan 
+
+-Website: menyusul setelah *deploy* ke vercel
+-Dibuat oleh: Herlinda Putri Pertiwi, SMKN 1 Jenangan
